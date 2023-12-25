@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: white;
+}
+
+
+
+.row{
+
+position: absolute;
+top: 70px;
+left: 20px;
+right: 20px;
+background-color: #E4E4E4;
+
+} 
+
+.col{
+
+    border-radius: 8px;
+    border-color: white;
+    border-style: solid;
+    border-width: 5px;
+    background-color: #E4E4E4;
+
+}
+
+p{
+    color: #d0b200;
+}
